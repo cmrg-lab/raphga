@@ -1,0 +1,704 @@
+species	pathway_class	class_detail	pathway_name	pathway_id
+mmu	Metabolism	Global and overview maps	Metabolic pathways	mmu01100
+mmu	Metabolism	Global and overview maps	Carbon metabolism	mmu01200
+mmu	Metabolism	Global and overview maps	2-Oxocarboxylic acid metabolism	mmu01210
+mmu	Metabolism	Global and overview maps	Fatty acid metabolism	mmu01212
+mmu	Metabolism	Global and overview maps	Biosynthesis of amino acids	mmu01230
+mmu	Metabolism	Global and overview maps	Degradation of aromatic compounds	mmu01220
+mmu	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis	mmu00010
+mmu	Metabolism	Carbohydrate metabolism	Citrate cycle (TCA cycle)	mmu00020
+mmu	Metabolism	Carbohydrate metabolism	Pentose phosphate pathway	mmu00030
+mmu	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions	mmu00040
+mmu	Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism	mmu00051
+mmu	Metabolism	Carbohydrate metabolism	Galactose metabolism	mmu00052
+mmu	Metabolism	Carbohydrate metabolism	Ascorbate and aldarate metabolism	mmu00053
+mmu	Metabolism	Carbohydrate metabolism	Starch and sucrose metabolism	mmu00500
+mmu	Metabolism	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	mmu00520
+mmu	Metabolism	Carbohydrate metabolism	Pyruvate metabolism	mmu00620
+mmu	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	mmu00630
+mmu	Metabolism	Carbohydrate metabolism	Propanoate metabolism	mmu00640
+mmu	Metabolism	Carbohydrate metabolism	Butanoate metabolism	mmu00650
+mmu	Metabolism	Carbohydrate metabolism	Inositol phosphate metabolism	mmu00562
+mmu	Metabolism	Energy metabolism	Oxidative phosphorylation	mmu00190
+mmu	Metabolism	Energy metabolism	Nitrogen metabolism	mmu00910
+mmu	Metabolism	Energy metabolism	Sulfur metabolism	mmu00920
+mmu	Metabolism	Lipid metabolism	Fatty acid biosynthesis	mmu00061
+mmu	Metabolism	Lipid metabolism	Fatty acid elongation	mmu00062
+mmu	Metabolism	Lipid metabolism	Fatty acid degradation	mmu00071
+mmu	Metabolism	Lipid metabolism	Synthesis and degradation of ketone bodies	mmu00072
+mmu	Metabolism	Lipid metabolism	Steroid biosynthesis	mmu00100
+mmu	Metabolism	Lipid metabolism	Primary bile acid biosynthesis	mmu00120
+mmu	Metabolism	Lipid metabolism	Steroid hormone biosynthesis	mmu00140
+mmu	Metabolism	Lipid metabolism	Glycerolipid metabolism	mmu00561
+mmu	Metabolism	Lipid metabolism	Glycerophospholipid metabolism	mmu00564
+mmu	Metabolism	Lipid metabolism	Ether lipid metabolism	mmu00565
+mmu	Metabolism	Lipid metabolism	Sphingolipid metabolism	mmu00600
+mmu	Metabolism	Lipid metabolism	Arachidonic acid metabolism	mmu00590
+mmu	Metabolism	Lipid metabolism	Linoleic acid metabolism	mmu00591
+mmu	Metabolism	Lipid metabolism	alpha-Linolenic acid metabolism	mmu00592
+mmu	Metabolism	Lipid metabolism	Biosynthesis of unsaturated fatty acids	mmu01040
+mmu	Metabolism	Nucleotide metabolism	Purine metabolism	mmu00230
+mmu	Metabolism	Nucleotide metabolism	Pyrimidine metabolism	mmu00240
+mmu	Metabolism	Amino acid metabolism	Alanine  aspartate and glutamate metabolism	mmu00250
+mmu	Metabolism	Amino acid metabolism	Glycine  serine and threonine metabolism	mmu00260
+mmu	Metabolism	Amino acid metabolism	Cysteine and methionine metabolism	mmu00270
+mmu	Metabolism	Amino acid metabolism	Valine  leucine and isoleucine degradation	mmu00280
+mmu	Metabolism	Amino acid metabolism	Valine  leucine and isoleucine biosynthesis	mmu00290
+mmu	Metabolism	Amino acid metabolism	Lysine biosynthesis	mmu00300
+mmu	Metabolism	Amino acid metabolism	Lysine degradation	mmu00310
+mmu	Metabolism	Amino acid metabolism	Arginine and proline metabolism	mmu00330
+mmu	Metabolism	Amino acid metabolism	Histidine metabolism	mmu00340
+mmu	Metabolism	Amino acid metabolism	Tyrosine metabolism	mmu00350
+mmu	Metabolism	Amino acid metabolism	Phenylalanine metabolism	mmu00360
+mmu	Metabolism	Amino acid metabolism	Tryptophan metabolism	mmu00380
+mmu	Metabolism	Amino acid metabolism	Phenylalanine  tyrosine and tryptophan biosynthesis	mmu00400
+mmu	Metabolism	Metabolism of other amino acids	beta-Alanine metabolism	mmu00410
+mmu	Metabolism	Metabolism of other amino acids	Taurine and hypotaurine metabolism	mmu00430
+mmu	Metabolism	Metabolism of other amino acids	Selenocompound metabolism	mmu00450
+mmu	Metabolism	Metabolism of other amino acids	Cyanoamino acid metabolism	mmu00460
+mmu	Metabolism	Metabolism of other amino acids	D-Glutamine and D-glutamate metabolism	mmu00471
+mmu	Metabolism	Metabolism of other amino acids	D-Arginine and D-ornithine metabolism	mmu00472
+mmu	Metabolism	Metabolism of other amino acids	Glutathione metabolism	mmu00480
+mmu	Metabolism	Glycan biosynthesis and metabolism	N-Glycan biosynthesis	mmu00510
+mmu	Metabolism	Glycan biosynthesis and metabolism	Mucin type O-Glycan biosynthesis	mmu00512
+mmu	Metabolism	Glycan biosynthesis and metabolism	Other types of O-glycan biosynthesis	mmu00514
+mmu	Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	mmu00532
+mmu	Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	mmu00534
+mmu	Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - keratan sulfate	mmu00533
+mmu	Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan degradation	mmu00531
+mmu	Metabolism	Glycan biosynthesis and metabolism	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	mmu00563
+mmu	Metabolism	Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - lacto and neolacto series	mmu00601
+mmu	Metabolism	Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - globo series	mmu00603
+mmu	Metabolism	Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - ganglio series	mmu00604
+mmu	Metabolism	Glycan biosynthesis and metabolism	Other glycan degradation	mmu00511
+mmu	Metabolism	Metabolism of cofactors and vitamins	Thiamine metabolism	mmu00730
+mmu	Metabolism	Metabolism of cofactors and vitamins	Riboflavin metabolism	mmu00740
+mmu	Metabolism	Metabolism of cofactors and vitamins	Vitamin B6 metabolism	mmu00750
+mmu	Metabolism	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism	mmu00760
+mmu	Metabolism	Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	mmu00770
+mmu	Metabolism	Metabolism of cofactors and vitamins	Biotin metabolism	mmu00780
+mmu	Metabolism	Metabolism of cofactors and vitamins	Lipoic acid metabolism	mmu00785
+mmu	Metabolism	Metabolism of cofactors and vitamins	Folate biosynthesis	mmu00790
+mmu	Metabolism	Metabolism of cofactors and vitamins	One carbon pool by folate	mmu00670
+mmu	Metabolism	Metabolism of cofactors and vitamins	Retinol metabolism	mmu00830
+mmu	Metabolism	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism	mmu00860
+mmu	Metabolism	Metabolism of cofactors and vitamins	Ubiquinone and other terpenoid-quinone biosynthesis	mmu00130
+mmu	Metabolism	Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis	mmu00900
+mmu	Metabolism	Biosynthesis of other secondary metabolites	Caffeine metabolism	mmu00232
+mmu	Metabolism	Biosynthesis of other secondary metabolites	Butirosin and neomycin biosynthesis	mmu00524
+mmu	Metabolism	Xenobiotics biodegradation and metabolism	Metabolism of xenobiotics by cytochrome P450	mmu00980
+mmu	Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - cytochrome P450	mmu00982
+mmu	Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes	mmu00983
+mmu	Genetic Information Processing	Transcription	RNA polymerase	mmu03020
+mmu	Genetic Information Processing	Transcription	Basal transcription factors	mmu03022
+mmu	Genetic Information Processing	Transcription	Spliceosome	mmu03040
+mmu	Genetic Information Processing	Translation	Ribosome	mmu03010
+mmu	Genetic Information Processing	Translation	Aminoacyl-tRNA biosynthesis	mmu00970
+mmu	Genetic Information Processing	Translation	RNA transport	mmu03013
+mmu	Genetic Information Processing	Translation	mRNA surveillance pathway	mmu03015
+mmu	Genetic Information Processing	Translation	Ribosome biogenesis in eukaryotes	mmu03008
+mmu	Genetic Information Processing	Folding  sorting and degradation	Protein export	mmu03060
+mmu	Genetic Information Processing	Folding  sorting and degradation	Protein processing in endoplasmic reticulum	mmu04141
+mmu	Genetic Information Processing	Folding  sorting and degradation	SNARE interactions in vesicular transport	mmu04130
+mmu	Genetic Information Processing	Folding  sorting and degradation	Ubiquitin mediated proteolysis	mmu04120
+mmu	Genetic Information Processing	Folding  sorting and degradation	Sulfur relay system	mmu04122
+mmu	Genetic Information Processing	Folding  sorting and degradation	Proteasome	mmu03050
+mmu	Genetic Information Processing	Folding  sorting and degradation	RNA degradation	mmu03018
+mmu	Genetic Information Processing	Replication and repair	DNA replication	mmu03030
+mmu	Genetic Information Processing	Replication and repair	Base excision repair	mmu03410
+mmu	Genetic Information Processing	Replication and repair	Nucleotide excision repair	mmu03420
+mmu	Genetic Information Processing	Replication and repair	Mismatch repair	mmu03430
+mmu	Genetic Information Processing	Replication and repair	Homologous recombination	mmu03440
+mmu	Genetic Information Processing	Replication and repair	Non-homologous end-joining	mmu03450
+mmu	Genetic Information Processing	Replication and repair	Fanconi anemia pathway	mmu03460
+mmu	Environmental Information Processing	Membrane transport	ABC transporters	mmu02010
+mmu	Environmental Information Processing	Signal transduction	Ras signaling pathway	mmu04014
+mmu	Environmental Information Processing	Signal transduction	Rap1 signaling pathway	mmu04015
+mmu	Environmental Information Processing	Signal transduction	MAPK signaling pathway	mmu04010
+mmu	Environmental Information Processing	Signal transduction	ErbB signaling pathway	mmu04012
+mmu	Environmental Information Processing	Signal transduction	Wnt signaling pathway	mmu04310
+mmu	Environmental Information Processing	Signal transduction	Notch signaling pathway	mmu04330
+mmu	Environmental Information Processing	Signal transduction	Hedgehog signaling pathway	mmu04340
+mmu	Environmental Information Processing	Signal transduction	TGF-beta signaling pathway	mmu04350
+mmu	Environmental Information Processing	Signal transduction	Hippo signaling pathway	mmu04390
+mmu	Environmental Information Processing	Signal transduction	VEGF signaling pathway	mmu04370
+mmu	Environmental Information Processing	Signal transduction	Jak-STAT signaling pathway	mmu04630
+mmu	Environmental Information Processing	Signal transduction	NF-kappa B signaling pathway	mmu04064
+mmu	Environmental Information Processing	Signal transduction	TNF signaling pathway	mmu04668
+mmu	Environmental Information Processing	Signal transduction	HIF-1 signaling pathway	mmu04066
+mmu	Environmental Information Processing	Signal transduction	FoxO signaling pathway	mmu04068
+mmu	Environmental Information Processing	Signal transduction	Calcium signaling pathway	mmu04020
+mmu	Environmental Information Processing	Signal transduction	Phosphatidylinositol signaling system	mmu04070
+mmu	Environmental Information Processing	Signal transduction	cAMP signaling pathway	mmu04024
+mmu	Environmental Information Processing	Signal transduction	cGMP-PKG signaling pathway	mmu04022
+mmu	Environmental Information Processing	Signal transduction	PI3K-Akt signaling pathway	mmu04151
+mmu	Environmental Information Processing	Signal transduction	AMPK signaling pathway	mmu04152
+mmu	Environmental Information Processing	Signal transduction	mTOR signaling pathway	mmu04150
+mmu	Environmental Information Processing	Signaling molecules and interaction	Neuroactive ligand-receptor interaction	mmu04080
+mmu	Environmental Information Processing	Signaling molecules and interaction	Cytokine-cytokine receptor interaction	mmu04060
+mmu	Environmental Information Processing	Signaling molecules and interaction	ECM-receptor interaction	mmu04512
+mmu	Environmental Information Processing	Signaling molecules and interaction	Cell adhesion molecules (CAMs)	mmu04514
+mmu	Cellular Processes	Transport and catabolism	Endocytosis	mmu04144
+mmu	Cellular Processes	Transport and catabolism	Phagosome	mmu04145
+mmu	Cellular Processes	Transport and catabolism	Lysosome	mmu04142
+mmu	Cellular Processes	Transport and catabolism	Peroxisome	mmu04146
+mmu	Cellular Processes	Transport and catabolism	Regulation of autophagy	mmu04140
+mmu	Cellular Processes	Cell motility	Regulation of actin cytoskeleton	mmu04810
+mmu	Cellular Processes	Cell growth and death	Cell cycle	mmu04110
+mmu	Cellular Processes	Cell growth and death	Oocyte meiosis	mmu04114
+mmu	Cellular Processes	Cell growth and death	Apoptosis	mmu04210
+mmu	Cellular Processes	Cell growth and death	p53 signaling pathway	mmu04115
+mmu	Cellular Processes	Cellular community	Focal adhesion	mmu04510
+mmu	Cellular Processes	Cellular community	Adherens junction	mmu04520
+mmu	Cellular Processes	Cellular community	Tight junction	mmu04530
+mmu	Cellular Processes	Cellular community	Gap junction	mmu04540
+mmu	Organismal Systems	Immune system	Hematopoietic cell lineage	mmu04640
+mmu	Organismal Systems	Immune system	Complement and coagulation cascades	mmu04610
+mmu	Organismal Systems	Immune system	Platelet activation	mmu04611
+mmu	Organismal Systems	Immune system	Toll-like receptor signaling pathway	mmu04620
+mmu	Organismal Systems	Immune system	NOD-like receptor signaling pathway	mmu04621
+mmu	Organismal Systems	Immune system	RIG-I-like receptor signaling pathway	mmu04622
+mmu	Organismal Systems	Immune system	Cytosolic DNA-sensing pathway	mmu04623
+mmu	Organismal Systems	Immune system	Natural killer cell mediated cytotoxicity	mmu04650
+mmu	Organismal Systems	Immune system	Antigen processing and presentation	mmu04612
+mmu	Organismal Systems	Immune system	T cell receptor signaling pathway	mmu04660
+mmu	Organismal Systems	Immune system	B cell receptor signaling pathway	mmu04662
+mmu	Organismal Systems	Immune system	Fc epsilon RI signaling pathway	mmu04664
+mmu	Organismal Systems	Immune system	Fc gamma R-mediated phagocytosis	mmu04666
+mmu	Organismal Systems	Immune system	Leukocyte transendothelial migration	mmu04670
+mmu	Organismal Systems	Immune system	Intestinal immune network for IgA production	mmu04672
+mmu	Organismal Systems	Immune system	Chemokine signaling pathway	mmu04062
+mmu	Organismal Systems	Endocrine system	Insulin secretion	mmu04911
+mmu	Organismal Systems	Endocrine system	Insulin signaling pathway	mmu04910
+mmu	Organismal Systems	Endocrine system	Adipocytokine signaling pathway	mmu04920
+mmu	Organismal Systems	Endocrine system	PPAR signaling pathway	mmu03320
+mmu	Organismal Systems	Endocrine system	GnRH signaling pathway	mmu04912
+mmu	Organismal Systems	Endocrine system	Ovarian steroidogenesis	mmu04913
+mmu	Organismal Systems	Endocrine system	Estrogen signaling pathway	mmu04915
+mmu	Organismal Systems	Endocrine system	Progesterone-mediated oocyte maturation	mmu04914
+mmu	Organismal Systems	Endocrine system	Prolactin signaling pathway	mmu04917
+mmu	Organismal Systems	Endocrine system	Oxytocin signaling pathway	mmu04921
+mmu	Organismal Systems	Endocrine system	Thyroid hormone synthesis	mmu04918
+mmu	Organismal Systems	Endocrine system	Thyroid hormone signaling pathway	mmu04919
+mmu	Organismal Systems	Endocrine system	Melanogenesis	mmu04916
+mmu	Organismal Systems	Endocrine system	Renin-angiotensin system	mmu04614
+mmu	Organismal Systems	Circulatory system	Cardiac muscle contraction	mmu04260
+mmu	Organismal Systems	Circulatory system	Adrenergic signaling in cardiomyocytes	mmu04261
+mmu	Organismal Systems	Circulatory system	Vascular smooth muscle contraction	mmu04270
+mmu	Organismal Systems	Digestive system	Salivary secretion	mmu04970
+mmu	Organismal Systems	Digestive system	Gastric acid secretion	mmu04971
+mmu	Organismal Systems	Digestive system	Pancreatic secretion	mmu04972
+mmu	Organismal Systems	Digestive system	Bile secretion	mmu04976
+mmu	Organismal Systems	Digestive system	Carbohydrate digestion and absorption	mmu04973
+mmu	Organismal Systems	Digestive system	Protein digestion and absorption	mmu04974
+mmu	Organismal Systems	Digestive system	Fat digestion and absorption	mmu04975
+mmu	Organismal Systems	Digestive system	Vitamin digestion and absorption	mmu04977
+mmu	Organismal Systems	Digestive system	Mineral absorption	mmu04978
+mmu	Organismal Systems	Excretory system	Vasopressin-regulated water reabsorption	mmu04962
+mmu	Organismal Systems	Excretory system	Aldosterone-regulated sodium reabsorption	mmu04960
+mmu	Organismal Systems	Excretory system	Endocrine and other factor-regulated calcium reabsorption	mmu04961
+mmu	Organismal Systems	Excretory system	Proximal tubule bicarbonate reclamation	mmu04964
+mmu	Organismal Systems	Excretory system	Collecting duct acid secretion	mmu04966
+mmu	Organismal Systems	Nervous system	Glutamatergic synapse	mmu04724
+mmu	Organismal Systems	Nervous system	GABAergic synapse	mmu04727
+mmu	Organismal Systems	Nervous system	Cholinergic synapse	mmu04725
+mmu	Organismal Systems	Nervous system	Dopaminergic synapse	mmu04728
+mmu	Organismal Systems	Nervous system	Serotonergic synapse	mmu04726
+mmu	Organismal Systems	Nervous system	Long-term potentiation	mmu04720
+mmu	Organismal Systems	Nervous system	Long-term depression	mmu04730
+mmu	Organismal Systems	Nervous system	Retrograde endocannabinoid signaling	mmu04723
+mmu	Organismal Systems	Nervous system	Synaptic vesicle cycle	mmu04721
+mmu	Organismal Systems	Nervous system	Neurotrophin signaling pathway	mmu04722
+mmu	Organismal Systems	Sensory system	Phototransduction	mmu04744
+mmu	Organismal Systems	Sensory system	Olfactory transduction	mmu04740
+mmu	Organismal Systems	Sensory system	Taste transduction	mmu04742
+mmu	Organismal Systems	Sensory system	Inflammatory mediator regulation of TRP channels	mmu04750
+mmu	Organismal Systems	Development	Dorso-ventral axis formation	mmu04320
+mmu	Organismal Systems	Development	Axon guidance	mmu04360
+mmu	Organismal Systems	Development	Osteoclast differentiation	mmu04380
+mmu	Organismal Systems	Environmental adaptation	Circadian rhythm	mmu04710
+mmu	Organismal Systems	Environmental adaptation	Circadian entrainment	mmu04713
+mmu	Human Diseases	Cancers: Overview	Pathways in cancer	mmu05200
+mmu	Human Diseases	Cancers: Overview	Transcriptional misregulation in cancer	mmu05202
+mmu	Human Diseases	Cancers: Overview	MicroRNAs in cancer	mmu05206
+mmu	Human Diseases	Cancers: Overview	Proteoglycans in cancer	mmu05205
+mmu	Human Diseases	Cancers: Overview	Chemical carcinogenesis	mmu05204
+mmu	Human Diseases	Cancers: Overview	Viral carcinogenesis	mmu05203
+mmu	Human Diseases	Cancers: Specific types	Colorectal cancer	mmu05210
+mmu	Human Diseases	Cancers: Specific types	Pancreatic cancer	mmu05212
+mmu	Human Diseases	Cancers: Specific types	Glioma	mmu05214
+mmu	Human Diseases	Cancers: Specific types	Thyroid cancer	mmu05216
+mmu	Human Diseases	Cancers: Specific types	Acute myeloid leukemia	mmu05221
+mmu	Human Diseases	Cancers: Specific types	Chronic myeloid leukemia	mmu05220
+mmu	Human Diseases	Cancers: Specific types	Basal cell carcinoma	mmu05217
+mmu	Human Diseases	Cancers: Specific types	Melanoma	mmu05218
+mmu	Human Diseases	Cancers: Specific types	Renal cell carcinoma	mmu05211
+mmu	Human Diseases	Cancers: Specific types	Bladder cancer	mmu05219
+mmu	Human Diseases	Cancers: Specific types	Prostate cancer	mmu05215
+mmu	Human Diseases	Cancers: Specific types	Endometrial cancer	mmu05213
+mmu	Human Diseases	Cancers: Specific types	Small cell lung cancer	mmu05222
+mmu	Human Diseases	Cancers: Specific types	Non-small cell lung cancer	mmu05223
+mmu	Human Diseases	Immune diseases	Asthma	mmu05310
+mmu	Human Diseases	Immune diseases	Systemic lupus erythematosus	mmu05322
+mmu	Human Diseases	Immune diseases	Rheumatoid arthritis	mmu05323
+mmu	Human Diseases	Immune diseases	Autoimmune thyroid disease	mmu05320
+mmu	Human Diseases	Immune diseases	Inflammatory bowel disease (IBD)	mmu05321
+mmu	Human Diseases	Immune diseases	Allograft rejection	mmu05330
+mmu	Human Diseases	Immune diseases	Graft-versus-host disease	mmu05332
+mmu	Human Diseases	Immune diseases	Primary immunodeficiency	mmu05340
+mmu	Human Diseases	Neurodegenerative diseases	Alzheimer's disease	mmu05010
+mmu	Human Diseases	Neurodegenerative diseases	Parkinson's disease	mmu05012
+mmu	Human Diseases	Neurodegenerative diseases	Amyotrophic lateral sclerosis (ALS)	mmu05014
+mmu	Human Diseases	Neurodegenerative diseases	Huntington's disease	mmu05016
+mmu	Human Diseases	Neurodegenerative diseases	Prion diseases	mmu05020
+mmu	Human Diseases	Substance dependence	Cocaine addiction	mmu05030
+mmu	Human Diseases	Substance dependence	Amphetamine addiction	mmu05031
+mmu	Human Diseases	Substance dependence	Morphine addiction	mmu05032
+mmu	Human Diseases	Substance dependence	Nicotine addiction	mmu05033
+mmu	Human Diseases	Substance dependence	Alcoholism	mmu05034
+mmu	Human Diseases	Cardiovascular diseases	Hypertrophic cardiomyopathy (HCM)	mmu05410
+mmu	Human Diseases	Cardiovascular diseases	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	mmu05412
+mmu	Human Diseases	Cardiovascular diseases	Dilated cardiomyopathy	mmu05414
+mmu	Human Diseases	Cardiovascular diseases	Viral myocarditis	mmu05416
+mmu	Human Diseases	Endocrine and metabolic diseases	Type I diabetes mellitus	mmu04940
+mmu	Human Diseases	Endocrine and metabolic diseases	Type II diabetes mellitus	mmu04930
+mmu	Human Diseases	Endocrine and metabolic diseases	Non-alcoholic fatty liver disease (NAFLD)	mmu04932
+mmu	Human Diseases	Endocrine and metabolic diseases	Maturity onset diabetes of the young	mmu04950
+mmu	Human Diseases	Infectious diseases: Bacterial	Salmonella infection	mmu05132
+mmu	Human Diseases	Infectious diseases: Bacterial	Pertussis	mmu05133
+mmu	Human Diseases	Infectious diseases: Bacterial	Legionellosis	mmu05134
+mmu	Human Diseases	Infectious diseases: Bacterial	Staphylococcus aureus infection	mmu05150
+mmu	Human Diseases	Infectious diseases: Bacterial	Tuberculosis	mmu05152
+mmu	Human Diseases	Infectious diseases: Bacterial	Bacterial invasion of epithelial cells	mmu05100
+mmu	Human Diseases	Infectious diseases: Viral	HTLV-I infection	mmu05166
+mmu	Human Diseases	Infectious diseases: Viral	Measles	mmu05162
+mmu	Human Diseases	Infectious diseases: Viral	Influenza A	mmu05164
+mmu	Human Diseases	Infectious diseases: Viral	Hepatitis B	mmu05161
+mmu	Human Diseases	Infectious diseases: Viral	Hepatitis C	mmu05160
+mmu	Human Diseases	Infectious diseases: Viral	Herpes simplex infection	mmu05168
+mmu	Human Diseases	Infectious diseases: Viral	Epstein-Barr virus infection	mmu05169
+mmu	Human Diseases	Infectious diseases: Parasitic	Amoebiasis	mmu05146
+mmu	Human Diseases	Infectious diseases: Parasitic	Malaria	mmu05144
+mmu	Human Diseases	Infectious diseases: Parasitic	Toxoplasmosis	mmu05145
+mmu	Human Diseases	Infectious diseases: Parasitic	Leishmaniasis	mmu05140
+mmu	Human Diseases	Infectious diseases: Parasitic	Chagas disease (American trypanosomiasis)	mmu05142
+mmu	Human Diseases	Infectious diseases: Parasitic	African trypanosomiasis	mmu05143
+hsa	Metabolism	Global and overview maps	Metabolic pathways	hsa01100
+hsa	Metabolism	Global and overview maps	Carbon metabolism	hsa01200
+hsa	Metabolism	Global and overview maps	2-Oxocarboxylic acid metabolism	hsa01210
+hsa	Metabolism	Global and overview maps	Fatty acid metabolism	hsa01212
+hsa	Metabolism	Global and overview maps	Biosynthesis of amino acids	hsa01230
+hsa	Metabolism	Global and overview maps	Degradation of aromatic compounds	hsa01220
+hsa	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis	hsa00010
+hsa	Metabolism	Carbohydrate metabolism	Citrate cycle (TCA cycle)	hsa00020
+hsa	Metabolism	Carbohydrate metabolism	Pentose phosphate pathway	hsa00030
+hsa	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions	hsa00040
+hsa	Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism	hsa00051
+hsa	Metabolism	Carbohydrate metabolism	Galactose metabolism	hsa00052
+hsa	Metabolism	Carbohydrate metabolism	Ascorbate and aldarate metabolism	hsa00053
+hsa	Metabolism	Carbohydrate metabolism	Starch and sucrose metabolism	hsa00500
+hsa	Metabolism	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	hsa00520
+hsa	Metabolism	Carbohydrate metabolism	Pyruvate metabolism	hsa00620
+hsa	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	hsa00630
+hsa	Metabolism	Carbohydrate metabolism	Propanoate metabolism	hsa00640
+hsa	Metabolism	Carbohydrate metabolism	Butanoate metabolism	hsa00650
+hsa	Metabolism	Carbohydrate metabolism	Inositol phosphate metabolism	hsa00562
+hsa	Metabolism	Energy metabolism	Oxidative phosphorylation	hsa00190
+hsa	Metabolism	Energy metabolism	Nitrogen metabolism	hsa00910
+hsa	Metabolism	Energy metabolism	Sulfur metabolism	hsa00920
+hsa	Metabolism	Lipid metabolism	Fatty acid biosynthesis	hsa00061
+hsa	Metabolism	Lipid metabolism	Fatty acid elongation	hsa00062
+hsa	Metabolism	Lipid metabolism	Fatty acid degradation	hsa00071
+hsa	Metabolism	Lipid metabolism	Synthesis and degradation of ketone bodies	hsa00072
+hsa	Metabolism	Lipid metabolism	Steroid biosynthesis	hsa00100
+hsa	Metabolism	Lipid metabolism	Primary bile acid biosynthesis	hsa00120
+hsa	Metabolism	Lipid metabolism	Steroid hormone biosynthesis	hsa00140
+hsa	Metabolism	Lipid metabolism	Glycerolipid metabolism	hsa00561
+hsa	Metabolism	Lipid metabolism	Glycerophospholipid metabolism	hsa00564
+hsa	Metabolism	Lipid metabolism	Ether lipid metabolism	hsa00565
+hsa	Metabolism	Lipid metabolism	Sphingolipid metabolism	hsa00600
+hsa	Metabolism	Lipid metabolism	Arachidonic acid metabolism	hsa00590
+hsa	Metabolism	Lipid metabolism	Linoleic acid metabolism	hsa00591
+hsa	Metabolism	Lipid metabolism	alpha-Linolenic acid metabolism	hsa00592
+hsa	Metabolism	Lipid metabolism	Biosynthesis of unsaturated fatty acids	hsa01040
+hsa	Metabolism	Nucleotide metabolism	Purine metabolism	hsa00230
+hsa	Metabolism	Nucleotide metabolism	Pyrimidine metabolism	hsa00240
+hsa	Metabolism	Amino acid metabolism	Alanine  aspartate and glutamate metabolism	hsa00250
+hsa	Metabolism	Amino acid metabolism	Glycine  serine and threonine metabolism	hsa00260
+hsa	Metabolism	Amino acid metabolism	Cysteine and methionine metabolism	hsa00270
+hsa	Metabolism	Amino acid metabolism	Valine  leucine and isoleucine degradation	hsa00280
+hsa	Metabolism	Amino acid metabolism	Valine  leucine and isoleucine biosynthesis	hsa00290
+hsa	Metabolism	Amino acid metabolism	Lysine biosynthesis	hsa00300
+hsa	Metabolism	Amino acid metabolism	Lysine degradation	hsa00310
+hsa	Metabolism	Amino acid metabolism	Arginine and proline metabolism	hsa00330
+hsa	Metabolism	Amino acid metabolism	Histidine metabolism	hsa00340
+hsa	Metabolism	Amino acid metabolism	Tyrosine metabolism	hsa00350
+hsa	Metabolism	Amino acid metabolism	Phenylalanine metabolism	hsa00360
+hsa	Metabolism	Amino acid metabolism	Tryptophan metabolism	hsa00380
+hsa	Metabolism	Amino acid metabolism	Phenylalanine  tyrosine and tryptophan biosynthesis	hsa00400
+hsa	Metabolism	Metabolism of other amino acids	beta-Alanine metabolism	hsa00410
+hsa	Metabolism	Metabolism of other amino acids	Taurine and hypotaurine metabolism	hsa00430
+hsa	Metabolism	Metabolism of other amino acids	Selenocompound metabolism	hsa00450
+hsa	Metabolism	Metabolism of other amino acids	Cyanoamino acid metabolism	hsa00460
+hsa	Metabolism	Metabolism of other amino acids	D-Glutamine and D-glutamate metabolism	hsa00471
+hsa	Metabolism	Metabolism of other amino acids	D-Arginine and D-ornithine metabolism	hsa00472
+hsa	Metabolism	Metabolism of other amino acids	Glutathione metabolism	hsa00480
+hsa	Metabolism	Glycan biosynthesis and metabolism	N-Glycan biosynthesis	hsa00510
+hsa	Metabolism	Glycan biosynthesis and metabolism	Mucin type O-Glycan biosynthesis	hsa00512
+hsa	Metabolism	Glycan biosynthesis and metabolism	Other types of O-glycan biosynthesis	hsa00514
+hsa	Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	hsa00532
+hsa	Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	hsa00534
+hsa	Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - keratan sulfate	hsa00533
+hsa	Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan degradation	hsa00531
+hsa	Metabolism	Glycan biosynthesis and metabolism	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	hsa00563
+hsa	Metabolism	Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - lacto and neolacto series	hsa00601
+hsa	Metabolism	Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - globo series	hsa00603
+hsa	Metabolism	Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - ganglio series	hsa00604
+hsa	Metabolism	Glycan biosynthesis and metabolism	Other glycan degradation	hsa00511
+hsa	Metabolism	Metabolism of cofactors and vitamins	Thiamine metabolism	hsa00730
+hsa	Metabolism	Metabolism of cofactors and vitamins	Riboflavin metabolism	hsa00740
+hsa	Metabolism	Metabolism of cofactors and vitamins	Vitamin B6 metabolism	hsa00750
+hsa	Metabolism	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism	hsa00760
+hsa	Metabolism	Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	hsa00770
+hsa	Metabolism	Metabolism of cofactors and vitamins	Biotin metabolism	hsa00780
+hsa	Metabolism	Metabolism of cofactors and vitamins	Lipoic acid metabolism	hsa00785
+hsa	Metabolism	Metabolism of cofactors and vitamins	Folate biosynthesis	hsa00790
+hsa	Metabolism	Metabolism of cofactors and vitamins	One carbon pool by folate	hsa00670
+hsa	Metabolism	Metabolism of cofactors and vitamins	Retinol metabolism	hsa00830
+hsa	Metabolism	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism	hsa00860
+hsa	Metabolism	Metabolism of cofactors and vitamins	Ubiquinone and other terpenoid-quinone biosynthesis	hsa00130
+hsa	Metabolism	Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis	hsa00900
+hsa	Metabolism	Biosynthesis of other secondary metabolites	Caffeine metabolism	hsa00232
+hsa	Metabolism	Biosynthesis of other secondary metabolites	Butirosin and neomycin biosynthesis	hsa00524
+hsa	Metabolism	Xenobiotics biodegradation and metabolism	Metabolism of xenobiotics by cytochrome P450	hsa00980
+hsa	Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - cytochrome P450	hsa00982
+hsa	Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes	hsa00983
+hsa	Genetic Information Processing	Transcription	RNA polymerase	hsa03020
+hsa	Genetic Information Processing	Transcription	Basal transcription factors	hsa03022
+hsa	Genetic Information Processing	Transcription	Spliceosome	hsa03040
+hsa	Genetic Information Processing	Translation	Ribosome	hsa03010
+hsa	Genetic Information Processing	Translation	Aminoacyl-tRNA biosynthesis	hsa00970
+hsa	Genetic Information Processing	Translation	RNA transport	hsa03013
+hsa	Genetic Information Processing	Translation	mRNA surveillance pathway	hsa03015
+hsa	Genetic Information Processing	Translation	Ribosome biogenesis in eukaryotes	hsa03008
+hsa	Genetic Information Processing	Folding  sorting and degradation	Protein export	hsa03060
+hsa	Genetic Information Processing	Folding  sorting and degradation	Protein processing in endoplasmic reticulum	hsa04141
+hsa	Genetic Information Processing	Folding  sorting and degradation	SNARE interactions in vesicular transport	hsa04130
+hsa	Genetic Information Processing	Folding  sorting and degradation	Ubiquitin mediated proteolysis	hsa04120
+hsa	Genetic Information Processing	Folding  sorting and degradation	Sulfur relay system	hsa04122
+hsa	Genetic Information Processing	Folding  sorting and degradation	Proteasome	hsa03050
+hsa	Genetic Information Processing	Folding  sorting and degradation	RNA degradation	hsa03018
+hsa	Genetic Information Processing	Replication and repair	DNA replication	hsa03030
+hsa	Genetic Information Processing	Replication and repair	Base excision repair	hsa03410
+hsa	Genetic Information Processing	Replication and repair	Nucleotide excision repair	hsa03420
+hsa	Genetic Information Processing	Replication and repair	Mismatch repair	hsa03430
+hsa	Genetic Information Processing	Replication and repair	Homologous recombination	hsa03440
+hsa	Genetic Information Processing	Replication and repair	Non-homologous end-joining	hsa03450
+hsa	Genetic Information Processing	Replication and repair	Fanconi anemia pathway	hsa03460
+hsa	Environmental Information Processing	Membrane transport	ABC transporters	hsa02010
+hsa	Environmental Information Processing	Signal transduction	Ras signaling pathway	hsa04014
+hsa	Environmental Information Processing	Signal transduction	Rap1 signaling pathway	hsa04015
+hsa	Environmental Information Processing	Signal transduction	MAPK signaling pathway	hsa04010
+hsa	Environmental Information Processing	Signal transduction	ErbB signaling pathway	hsa04012
+hsa	Environmental Information Processing	Signal transduction	Wnt signaling pathway	hsa04310
+hsa	Environmental Information Processing	Signal transduction	Notch signaling pathway	hsa04330
+hsa	Environmental Information Processing	Signal transduction	Hedgehog signaling pathway	hsa04340
+hsa	Environmental Information Processing	Signal transduction	TGF-beta signaling pathway	hsa04350
+hsa	Environmental Information Processing	Signal transduction	Hippo signaling pathway	hsa04390
+hsa	Environmental Information Processing	Signal transduction	VEGF signaling pathway	hsa04370
+hsa	Environmental Information Processing	Signal transduction	Jak-STAT signaling pathway	hsa04630
+hsa	Environmental Information Processing	Signal transduction	NF-kappa B signaling pathway	hsa04064
+hsa	Environmental Information Processing	Signal transduction	TNF signaling pathway	hsa04668
+hsa	Environmental Information Processing	Signal transduction	HIF-1 signaling pathway	hsa04066
+hsa	Environmental Information Processing	Signal transduction	FoxO signaling pathway	hsa04068
+hsa	Environmental Information Processing	Signal transduction	Calcium signaling pathway	hsa04020
+hsa	Environmental Information Processing	Signal transduction	Phosphatidylinositol signaling system	hsa04070
+hsa	Environmental Information Processing	Signal transduction	cAMP signaling pathway	hsa04024
+hsa	Environmental Information Processing	Signal transduction	cGMP-PKG signaling pathway	hsa04022
+hsa	Environmental Information Processing	Signal transduction	PI3K-Akt signaling pathway	hsa04151
+hsa	Environmental Information Processing	Signal transduction	AMPK signaling pathway	hsa04152
+hsa	Environmental Information Processing	Signal transduction	mTOR signaling pathway	hsa04150
+hsa	Environmental Information Processing	Signaling molecules and interaction	Neuroactive ligand-receptor interaction	hsa04080
+hsa	Environmental Information Processing	Signaling molecules and interaction	Cytokine-cytokine receptor interaction	hsa04060
+hsa	Environmental Information Processing	Signaling molecules and interaction	ECM-receptor interaction	hsa04512
+hsa	Environmental Information Processing	Signaling molecules and interaction	Cell adhesion molecules (CAMs)	hsa04514
+hsa	Cellular Processes	Transport and catabolism	Endocytosis	hsa04144
+hsa	Cellular Processes	Transport and catabolism	Phagosome	hsa04145
+hsa	Cellular Processes	Transport and catabolism	Lysosome	hsa04142
+hsa	Cellular Processes	Transport and catabolism	Peroxisome	hsa04146
+hsa	Cellular Processes	Transport and catabolism	Regulation of autophagy	hsa04140
+hsa	Cellular Processes	Cell motility	Regulation of actin cytoskeleton	hsa04810
+hsa	Cellular Processes	Cell growth and death	Cell cycle	hsa04110
+hsa	Cellular Processes	Cell growth and death	Oocyte meiosis	hsa04114
+hsa	Cellular Processes	Cell growth and death	Apoptosis	hsa04210
+hsa	Cellular Processes	Cell growth and death	p53 signaling pathway	hsa04115
+hsa	Cellular Processes	Cellular community	Focal adhesion	hsa04510
+hsa	Cellular Processes	Cellular community	Adherens junction	hsa04520
+hsa	Cellular Processes	Cellular community	Tight junction	hsa04530
+hsa	Cellular Processes	Cellular community	Gap junction	hsa04540
+hsa	Organismal Systems	Immune system	Hematopoietic cell lineage	hsa04640
+hsa	Organismal Systems	Immune system	Complement and coagulation cascades	hsa04610
+hsa	Organismal Systems	Immune system	Platelet activation	hsa04611
+hsa	Organismal Systems	Immune system	Toll-like receptor signaling pathway	hsa04620
+hsa	Organismal Systems	Immune system	NOD-like receptor signaling pathway	hsa04621
+hsa	Organismal Systems	Immune system	RIG-I-like receptor signaling pathway	hsa04622
+hsa	Organismal Systems	Immune system	Cytosolic DNA-sensing pathway	hsa04623
+hsa	Organismal Systems	Immune system	Natural killer cell mediated cytotoxicity	hsa04650
+hsa	Organismal Systems	Immune system	Antigen processing and presentation	hsa04612
+hsa	Organismal Systems	Immune system	T cell receptor signaling pathway	hsa04660
+hsa	Organismal Systems	Immune system	B cell receptor signaling pathway	hsa04662
+hsa	Organismal Systems	Immune system	Fc epsilon RI signaling pathway	hsa04664
+hsa	Organismal Systems	Immune system	Fc gamma R-mediated phagocytosis	hsa04666
+hsa	Organismal Systems	Immune system	Leukocyte transendothelial migration	hsa04670
+hsa	Organismal Systems	Immune system	Intestinal immune network for IgA production	hsa04672
+hsa	Organismal Systems	Immune system	Chemokine signaling pathway	hsa04062
+hsa	Organismal Systems	Endocrine system	Insulin secretion	hsa04911
+hsa	Organismal Systems	Endocrine system	Insulin signaling pathway	hsa04910
+hsa	Organismal Systems	Endocrine system	Adipocytokine signaling pathway	hsa04920
+hsa	Organismal Systems	Endocrine system	PPAR signaling pathway	hsa03320
+hsa	Organismal Systems	Endocrine system	GnRH signaling pathway	hsa04912
+hsa	Organismal Systems	Endocrine system	Ovarian steroidogenesis	hsa04913
+hsa	Organismal Systems	Endocrine system	Estrogen signaling pathway	hsa04915
+hsa	Organismal Systems	Endocrine system	Progesterone-mediated oocyte maturation	hsa04914
+hsa	Organismal Systems	Endocrine system	Prolactin signaling pathway	hsa04917
+hsa	Organismal Systems	Endocrine system	Oxytocin signaling pathway	hsa04921
+hsa	Organismal Systems	Endocrine system	Thyroid hormone synthesis	hsa04918
+hsa	Organismal Systems	Endocrine system	Thyroid hormone signaling pathway	hsa04919
+hsa	Organismal Systems	Endocrine system	Melanogenesis	hsa04916
+hsa	Organismal Systems	Endocrine system	Renin-angiotensin system	hsa04614
+hsa	Organismal Systems	Circulatory system	Cardiac muscle contraction	hsa04260
+hsa	Organismal Systems	Circulatory system	Adrenergic signaling in cardiomyocytes	hsa04261
+hsa	Organismal Systems	Circulatory system	Vascular smooth muscle contraction	hsa04270
+hsa	Organismal Systems	Digestive system	Salivary secretion	hsa04970
+hsa	Organismal Systems	Digestive system	Gastric acid secretion	hsa04971
+hsa	Organismal Systems	Digestive system	Pancreatic secretion	hsa04972
+hsa	Organismal Systems	Digestive system	Bile secretion	hsa04976
+hsa	Organismal Systems	Digestive system	Carbohydrate digestion and absorption	hsa04973
+hsa	Organismal Systems	Digestive system	Protein digestion and absorption	hsa04974
+hsa	Organismal Systems	Digestive system	Fat digestion and absorption	hsa04975
+hsa	Organismal Systems	Digestive system	Vitamin digestion and absorption	hsa04977
+hsa	Organismal Systems	Digestive system	Mineral absorption	hsa04978
+hsa	Organismal Systems	Excretory system	Vasopressin-regulated water reabsorption	hsa04962
+hsa	Organismal Systems	Excretory system	Aldosterone-regulated sodium reabsorption	hsa04960
+hsa	Organismal Systems	Excretory system	Endocrine and other factor-regulated calcium reabsorption	hsa04961
+hsa	Organismal Systems	Excretory system	Proximal tubule bicarbonate reclamation	hsa04964
+hsa	Organismal Systems	Excretory system	Collecting duct acid secretion	hsa04966
+hsa	Organismal Systems	Nervous system	Glutamatergic synapse	hsa04724
+hsa	Organismal Systems	Nervous system	GABAergic synapse	hsa04727
+hsa	Organismal Systems	Nervous system	Cholinergic synapse	hsa04725
+hsa	Organismal Systems	Nervous system	Dopaminergic synapse	hsa04728
+hsa	Organismal Systems	Nervous system	Serotonergic synapse	hsa04726
+hsa	Organismal Systems	Nervous system	Long-term potentiation	hsa04720
+hsa	Organismal Systems	Nervous system	Long-term depression	hsa04730
+hsa	Organismal Systems	Nervous system	Retrograde endocannabinoid signaling	hsa04723
+hsa	Organismal Systems	Nervous system	Synaptic vesicle cycle	hsa04721
+hsa	Organismal Systems	Nervous system	Neurotrophin signaling pathway	hsa04722
+hsa	Organismal Systems	Sensory system	Phototransduction	hsa04744
+hsa	Organismal Systems	Sensory system	Olfactory transduction	hsa04740
+hsa	Organismal Systems	Sensory system	Taste transduction	hsa04742
+hsa	Organismal Systems	Sensory system	Inflammatory mediator regulation of TRP channels	hsa04750
+hsa	Organismal Systems	Development	Dorso-ventral axis formation	hsa04320
+hsa	Organismal Systems	Development	Axon guidance	hsa04360
+hsa	Organismal Systems	Development	Osteoclast differentiation	hsa04380
+hsa	Organismal Systems	Environmental adaptation	Circadian rhythm	hsa04710
+hsa	Organismal Systems	Environmental adaptation	Circadian entrainment	hsa04713
+hsa	Human Diseases	Cancers: Overview	Pathways in cancer	hsa05200
+hsa	Human Diseases	Cancers: Overview	Transcriptional misregulation in cancer	hsa05202
+hsa	Human Diseases	Cancers: Overview	MicroRNAs in cancer	hsa05206
+hsa	Human Diseases	Cancers: Overview	Proteoglycans in cancer	hsa05205
+hsa	Human Diseases	Cancers: Overview	Chemical carcinogenesis	hsa05204
+hsa	Human Diseases	Cancers: Overview	Viral carcinogenesis	hsa05203
+hsa	Human Diseases	Cancers: Specific types	Colorectal cancer	hsa05210
+hsa	Human Diseases	Cancers: Specific types	Pancreatic cancer	hsa05212
+hsa	Human Diseases	Cancers: Specific types	Glioma	hsa05214
+hsa	Human Diseases	Cancers: Specific types	Thyroid cancer	hsa05216
+hsa	Human Diseases	Cancers: Specific types	Acute myeloid leukemia	hsa05221
+hsa	Human Diseases	Cancers: Specific types	Chronic myeloid leukemia	hsa05220
+hsa	Human Diseases	Cancers: Specific types	Basal cell carcinoma	hsa05217
+hsa	Human Diseases	Cancers: Specific types	Melanoma	hsa05218
+hsa	Human Diseases	Cancers: Specific types	Renal cell carcinoma	hsa05211
+hsa	Human Diseases	Cancers: Specific types	Bladder cancer	hsa05219
+hsa	Human Diseases	Cancers: Specific types	Prostate cancer	hsa05215
+hsa	Human Diseases	Cancers: Specific types	Endometrial cancer	hsa05213
+hsa	Human Diseases	Cancers: Specific types	Small cell lung cancer	hsa05222
+hsa	Human Diseases	Cancers: Specific types	Non-small cell lung cancer	hsa05223
+hsa	Human Diseases	Immune diseases	Asthma	hsa05310
+hsa	Human Diseases	Immune diseases	Systemic lupus erythematosus	hsa05322
+hsa	Human Diseases	Immune diseases	Rheumatoid arthritis	hsa05323
+hsa	Human Diseases	Immune diseases	Autoimmune thyroid disease	hsa05320
+hsa	Human Diseases	Immune diseases	Inflammatory bowel disease (IBD)	hsa05321
+hsa	Human Diseases	Immune diseases	Allograft rejection	hsa05330
+hsa	Human Diseases	Immune diseases	Graft-versus-host disease	hsa05332
+hsa	Human Diseases	Immune diseases	Primary immunodeficiency	hsa05340
+hsa	Human Diseases	Neurodegenerative diseases	Alzheimer's disease	hsa05010
+hsa	Human Diseases	Neurodegenerative diseases	Parkinson's disease	hsa05012
+hsa	Human Diseases	Neurodegenerative diseases	Amyotrophic lateral sclerosis (ALS)	hsa05014
+hsa	Human Diseases	Neurodegenerative diseases	Huntington's disease	hsa05016
+hsa	Human Diseases	Neurodegenerative diseases	Prion diseases	hsa05020
+hsa	Human Diseases	Substance dependence	Cocaine addiction	hsa05030
+hsa	Human Diseases	Substance dependence	Amphetamine addiction	hsa05031
+hsa	Human Diseases	Substance dependence	Morphine addiction	hsa05032
+hsa	Human Diseases	Substance dependence	Nicotine addiction	hsa05033
+hsa	Human Diseases	Substance dependence	Alcoholism	hsa05034
+hsa	Human Diseases	Cardiovascular diseases	Hypertrophic cardiomyopathy (HCM)	hsa05410
+hsa	Human Diseases	Cardiovascular diseases	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	hsa05412
+hsa	Human Diseases	Cardiovascular diseases	Dilated cardiomyopathy	hsa05414
+hsa	Human Diseases	Cardiovascular diseases	Viral myocarditis	hsa05416
+hsa	Human Diseases	Endocrine and metabolic diseases	Type I diabetes mellitus	hsa04940
+hsa	Human Diseases	Endocrine and metabolic diseases	Type II diabetes mellitus	hsa04930
+hsa	Human Diseases	Endocrine and metabolic diseases	Non-alcoholic fatty liver disease (NAFLD)	hsa04932
+hsa	Human Diseases	Endocrine and metabolic diseases	Maturity onset diabetes of the young	hsa04950
+hsa	Human Diseases	Infectious diseases: Bacterial	Vibrio cholerae infection	hsa05110
+hsa	Human Diseases	Infectious diseases: Bacterial	Epithelial cell signaling in Helicobacter pylori infection	hsa05120
+hsa	Human Diseases	Infectious diseases: Bacterial	Pathogenic Escherichia coli infection	hsa05130
+hsa	Human Diseases	Infectious diseases: Bacterial	Salmonella infection	hsa05132
+hsa	Human Diseases	Infectious diseases: Bacterial	Shigellosis	hsa05131
+hsa	Human Diseases	Infectious diseases: Bacterial	Pertussis	hsa05133
+hsa	Human Diseases	Infectious diseases: Bacterial	Legionellosis	hsa05134
+hsa	Human Diseases	Infectious diseases: Bacterial	Staphylococcus aureus infection	hsa05150
+hsa	Human Diseases	Infectious diseases: Bacterial	Tuberculosis	hsa05152
+hsa	Human Diseases	Infectious diseases: Bacterial	Bacterial invasion of epithelial cells	hsa05100
+hsa	Human Diseases	Infectious diseases: Viral	HTLV-I infection	hsa05166
+hsa	Human Diseases	Infectious diseases: Viral	Measles	hsa05162
+hsa	Human Diseases	Infectious diseases: Viral	Influenza A	hsa05164
+hsa	Human Diseases	Infectious diseases: Viral	Hepatitis B	hsa05161
+hsa	Human Diseases	Infectious diseases: Viral	Hepatitis C	hsa05160
+hsa	Human Diseases	Infectious diseases: Viral	Herpes simplex infection	hsa05168
+hsa	Human Diseases	Infectious diseases: Viral	Epstein-Barr virus infection	hsa05169
+hsa	Human Diseases	Infectious diseases: Parasitic	Amoebiasis	hsa05146
+hsa	Human Diseases	Infectious diseases: Parasitic	Malaria	hsa05144
+hsa	Human Diseases	Infectious diseases: Parasitic	Toxoplasmosis	hsa05145
+hsa	Human Diseases	Infectious diseases: Parasitic	Leishmaniasis	hsa05140
+hsa	Human Diseases	Infectious diseases: Parasitic	Chagas disease (American trypanosomiasis)	hsa05142
+hsa	Human Diseases	Infectious diseases: Parasitic	African trypanosomiasis	hsa05143
+dme	Metabolism	Global and overview maps	Metabolic pathways	dme01100
+dme	Metabolism	Global and overview maps	Carbon metabolism	dme01200
+dme	Metabolism	Global and overview maps	2-Oxocarboxylic acid metabolism	dme01210
+dme	Metabolism	Global and overview maps	Fatty acid metabolism	dme01212
+dme	Metabolism	Global and overview maps	Biosynthesis of amino acids	dme01230
+dme	Metabolism	Global and overview maps	Degradation of aromatic compounds	dme01220
+dme	Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis	dme00010
+dme	Metabolism	Carbohydrate metabolism	Citrate cycle (TCA cycle)	dme00020
+dme	Metabolism	Carbohydrate metabolism	Pentose phosphate pathway	dme00030
+dme	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions	dme00040
+dme	Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism	dme00051
+dme	Metabolism	Carbohydrate metabolism	Galactose metabolism	dme00052
+dme	Metabolism	Carbohydrate metabolism	Ascorbate and aldarate metabolism	dme00053
+dme	Metabolism	Carbohydrate metabolism	Starch and sucrose metabolism	dme00500
+dme	Metabolism	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	dme00520
+dme	Metabolism	Carbohydrate metabolism	Pyruvate metabolism	dme00620
+dme	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	dme00630
+dme	Metabolism	Carbohydrate metabolism	Propanoate metabolism	dme00640
+dme	Metabolism	Carbohydrate metabolism	Butanoate metabolism	dme00650
+dme	Metabolism	Carbohydrate metabolism	Inositol phosphate metabolism	dme00562
+dme	Metabolism	Energy metabolism	Oxidative phosphorylation	dme00190
+dme	Metabolism	Energy metabolism	Nitrogen metabolism	dme00910
+dme	Metabolism	Energy metabolism	Sulfur metabolism	dme00920
+dme	Metabolism	Lipid metabolism	Fatty acid biosynthesis	dme00061
+dme	Metabolism	Lipid metabolism	Fatty acid elongation	dme00062
+dme	Metabolism	Lipid metabolism	Fatty acid degradation	dme00071
+dme	Metabolism	Lipid metabolism	Synthesis and degradation of ketone bodies	dme00072
+dme	Metabolism	Lipid metabolism	Steroid biosynthesis	dme00100
+dme	Metabolism	Lipid metabolism	Glycerolipid metabolism	dme00561
+dme	Metabolism	Lipid metabolism	Glycerophospholipid metabolism	dme00564
+dme	Metabolism	Lipid metabolism	Ether lipid metabolism	dme00565
+dme	Metabolism	Lipid metabolism	Sphingolipid metabolism	dme00600
+dme	Metabolism	Lipid metabolism	Arachidonic acid metabolism	dme00590
+dme	Metabolism	Lipid metabolism	Linoleic acid metabolism	dme00591
+dme	Metabolism	Lipid metabolism	alpha-Linolenic acid metabolism	dme00592
+dme	Metabolism	Lipid metabolism	Biosynthesis of unsaturated fatty acids	dme01040
+dme	Metabolism	Nucleotide metabolism	Purine metabolism	dme00230
+dme	Metabolism	Nucleotide metabolism	Pyrimidine metabolism	dme00240
+dme	Metabolism	Amino acid metabolism	Alanine  aspartate and glutamate metabolism	dme00250
+dme	Metabolism	Amino acid metabolism	Glycine  serine and threonine metabolism	dme00260
+dme	Metabolism	Amino acid metabolism	Cysteine and methionine metabolism	dme00270
+dme	Metabolism	Amino acid metabolism	Valine  leucine and isoleucine degradation	dme00280
+dme	Metabolism	Amino acid metabolism	Valine  leucine and isoleucine biosynthesis	dme00290
+dme	Metabolism	Amino acid metabolism	Lysine biosynthesis	dme00300
+dme	Metabolism	Amino acid metabolism	Lysine degradation	dme00310
+dme	Metabolism	Amino acid metabolism	Arginine and proline metabolism	dme00330
+dme	Metabolism	Amino acid metabolism	Histidine metabolism	dme00340
+dme	Metabolism	Amino acid metabolism	Tyrosine metabolism	dme00350
+dme	Metabolism	Amino acid metabolism	Phenylalanine metabolism	dme00360
+dme	Metabolism	Amino acid metabolism	Tryptophan metabolism	dme00380
+dme	Metabolism	Amino acid metabolism	Phenylalanine  tyrosine and tryptophan biosynthesis	dme00400
+dme	Metabolism	Metabolism of other amino acids	beta-Alanine metabolism	dme00410
+dme	Metabolism	Metabolism of other amino acids	Taurine and hypotaurine metabolism	dme00430
+dme	Metabolism	Metabolism of other amino acids	Selenocompound metabolism	dme00450
+dme	Metabolism	Metabolism of other amino acids	Cyanoamino acid metabolism	dme00460
+dme	Metabolism	Metabolism of other amino acids	D-Glutamine and D-glutamate metabolism	dme00471
+dme	Metabolism	Metabolism of other amino acids	D-Arginine and D-ornithine metabolism	dme00472
+dme	Metabolism	Metabolism of other amino acids	Glutathione metabolism	dme00480
+dme	Metabolism	Glycan biosynthesis and metabolism	N-Glycan biosynthesis	dme00510
+dme	Metabolism	Glycan biosynthesis and metabolism	Mucin type O-Glycan biosynthesis	dme00512
+dme	Metabolism	Glycan biosynthesis and metabolism	Other types of O-glycan biosynthesis	dme00514
+dme	Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	dme00532
+dme	Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	dme00534
+dme	Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - keratan sulfate	dme00533
+dme	Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan degradation	dme00531
+dme	Metabolism	Glycan biosynthesis and metabolism	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	dme00563
+dme	Metabolism	Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - lacto and neolacto series	dme00601
+dme	Metabolism	Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - globo series	dme00603
+dme	Metabolism	Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - ganglio series	dme00604
+dme	Metabolism	Glycan biosynthesis and metabolism	Other glycan degradation	dme00511
+dme	Metabolism	Metabolism of cofactors and vitamins	Thiamine metabolism	dme00730
+dme	Metabolism	Metabolism of cofactors and vitamins	Riboflavin metabolism	dme00740
+dme	Metabolism	Metabolism of cofactors and vitamins	Vitamin B6 metabolism	dme00750
+dme	Metabolism	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism	dme00760
+dme	Metabolism	Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	dme00770
+dme	Metabolism	Metabolism of cofactors and vitamins	Biotin metabolism	dme00780
+dme	Metabolism	Metabolism of cofactors and vitamins	Lipoic acid metabolism	dme00785
+dme	Metabolism	Metabolism of cofactors and vitamins	Folate biosynthesis	dme00790
+dme	Metabolism	Metabolism of cofactors and vitamins	One carbon pool by folate	dme00670
+dme	Metabolism	Metabolism of cofactors and vitamins	Retinol metabolism	dme00830
+dme	Metabolism	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism	dme00860
+dme	Metabolism	Metabolism of cofactors and vitamins	Ubiquinone and other terpenoid-quinone biosynthesis	dme00130
+dme	Metabolism	Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis	dme00900
+dme	Metabolism	Metabolism of terpenoids and polyketides	Insect hormone biosynthesis	dme00981
+dme	Metabolism	Biosynthesis of other secondary metabolites	Caffeine metabolism	dme00232
+dme	Metabolism	Xenobiotics biodegradation and metabolism	Metabolism of xenobiotics by cytochrome P450	dme00980
+dme	Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - cytochrome P450	dme00982
+dme	Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes	dme00983
+dme	Genetic Information Processing	Transcription	RNA polymerase	dme03020
+dme	Genetic Information Processing	Transcription	Basal transcription factors	dme03022
+dme	Genetic Information Processing	Transcription	Spliceosome	dme03040
+dme	Genetic Information Processing	Translation	Ribosome	dme03010
+dme	Genetic Information Processing	Translation	Aminoacyl-tRNA biosynthesis	dme00970
+dme	Genetic Information Processing	Translation	RNA transport	dme03013
+dme	Genetic Information Processing	Translation	mRNA surveillance pathway	dme03015
+dme	Genetic Information Processing	Translation	Ribosome biogenesis in eukaryotes	dme03008
+dme	Genetic Information Processing	Folding  sorting and degradation	Protein export	dme03060
+dme	Genetic Information Processing	Folding  sorting and degradation	Protein processing in endoplasmic reticulum	dme04141
+dme	Genetic Information Processing	Folding  sorting and degradation	SNARE interactions in vesicular transport	dme04130
+dme	Genetic Information Processing	Folding  sorting and degradation	Ubiquitin mediated proteolysis	dme04120
+dme	Genetic Information Processing	Folding  sorting and degradation	Sulfur relay system	dme04122
+dme	Genetic Information Processing	Folding  sorting and degradation	Proteasome	dme03050
+dme	Genetic Information Processing	Folding  sorting and degradation	RNA degradation	dme03018
+dme	Genetic Information Processing	Replication and repair	DNA replication	dme03030
+dme	Genetic Information Processing	Replication and repair	Base excision repair	dme03410
+dme	Genetic Information Processing	Replication and repair	Nucleotide excision repair	dme03420
+dme	Genetic Information Processing	Replication and repair	Mismatch repair	dme03430
+dme	Genetic Information Processing	Replication and repair	Homologous recombination	dme03440
+dme	Genetic Information Processing	Replication and repair	Non-homologous end-joining	dme03450
+dme	Genetic Information Processing	Replication and repair	Fanconi anemia pathway	dme03460
+dme	Environmental Information Processing	Membrane transport	ABC transporters	dme02010
+dme	Environmental Information Processing	Signal transduction	MAPK signaling pathway - fly	dme04013
+dme	Environmental Information Processing	Signal transduction	Wnt signaling pathway	dme04310
+dme	Environmental Information Processing	Signal transduction	Notch signaling pathway	dme04330
+dme	Environmental Information Processing	Signal transduction	Hedgehog signaling pathway	dme04340
+dme	Environmental Information Processing	Signal transduction	TGF-beta signaling pathway	dme04350
+dme	Environmental Information Processing	Signal transduction	Hippo signaling pathway - fly	dme04391
+dme	Environmental Information Processing	Signal transduction	Jak-STAT signaling pathway	dme04630
+dme	Environmental Information Processing	Signal transduction	FoxO signaling pathway	dme04068
+dme	Environmental Information Processing	Signal transduction	Phosphatidylinositol signaling system	dme04070
+dme	Environmental Information Processing	Signal transduction	mTOR signaling pathway	dme04150
+dme	Environmental Information Processing	Signaling molecules and interaction	Neuroactive ligand-receptor interaction	dme04080
+dme	Environmental Information Processing	Signaling molecules and interaction	ECM-receptor interaction	dme04512
+dme	Cellular Processes	Transport and catabolism	Endocytosis	dme04144
+dme	Cellular Processes	Transport and catabolism	Phagosome	dme04145
+dme	Cellular Processes	Transport and catabolism	Lysosome	dme04142
+dme	Cellular Processes	Transport and catabolism	Peroxisome	dme04146
+dme	Cellular Processes	Transport and catabolism	Regulation of autophagy	dme04140
+dme	Organismal Systems	Sensory system	Phototransduction - fly	dme04745
+dme	Organismal Systems	Development	Dorso-ventral axis formation	dme04320
+dme	Organismal Systems	Environmental adaptation	Circadian rhythm - fly	dme04711
