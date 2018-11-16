@@ -1,0 +1,128 @@
+body
+{
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 0.725em; /* 14px/16=0.875em */
+}
+p.error
+{
+    color: red;
+    text-align: center;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 0.875em; /* 14px/16=0.875em */
+}
+table.label1 th
+{
+    text-align: center;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.575em; /* 14px/16=0.875em */
+}
+
+p.label1
+{
+    text-align: center;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.375em; /* 14px/16=0.875em */
+}
+
+td.smaller
+{
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.225em
+}
+
+td.smaller_none
+{
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.325em
+    border: none;
+    outline: none;
+}
+
+td.larger
+{
+    text-align: center;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.575em
+}
+
+td.larger_none
+{
+    text-align: center;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.575em
+    border: none;
+    outline: none;
+}
+
+.main_text
+{
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.225em; /* 14px/16=0.875em */
+}
+
+.result_text_bold
+{
+    font-weight: bold;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.125em; /* 14px/16=0.875em */
+}
+
+.main_text_centered
+{
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.225em; /* 14px/16=0.875em */
+    text-align: justify;
+    text-align: center;
+}
+
+.main_text_shifted
+{
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.225em; /* 14px/16=0.875em */
+    margin-left: 40px; 
+    text-align: justify;
+}
+
+.main_text_italics
+{
+    font-style: italic;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.225em; /* 14px/16=0.875em */
+}
+
+.large_text_bold_underline_1
+{
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.325em; /* 14px/16=0.875em */
+}
+
+.large_text_bold_center
+{
+    font-weight: bold;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.325em; /* 14px/16=0.875em */
+    text-align: center;
+}
+
+.large_text_bold_blue_1
+{
+    color: rgb(31, 56, 218);
+    font-weight: bold;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.325em; /* 14px/16=0.875em */
+}
+
+.small_centered_text_1
+{
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 0.875em; /* 14px/16=0.875em */
+    text-align: center;
+}
+
+.large_text_1
+{
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 1.875em; /* 14px/16=0.875em */
+}

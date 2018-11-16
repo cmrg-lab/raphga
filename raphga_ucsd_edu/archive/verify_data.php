@@ -198,7 +198,7 @@ if (isset($_SESSION['post_data']))
         $gene_nums_output = tempnam('/tmp', '');
 
         # These are the production locations
-        $path_to_script = "scripts";
+        $path_to_script = "/home/cmrg/raphga/scripts";
         $upload_dir = "/var/www/html/raphga_ucsd_edu/uploads";
 
         # These are the test locations
