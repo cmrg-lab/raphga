@@ -217,8 +217,9 @@ session_start();
     </td>
     </tr>
     <tr>
-      <td align="center"><input type="submit" name="clear" value="Clear data"></td>
       <td align="center"><input type="submit" name="submit" value="Submit"></td>
+
+      <td align="center"><input type="submit" name="clear" value="Clear data"></td>
     </tr>
     </table>
     </form>
