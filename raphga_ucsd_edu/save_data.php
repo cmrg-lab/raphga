@@ -1,10 +1,7 @@
 <?php
 session_start();
-#print_r($_POST);
-# Did we get our data?
 if (isset($_POST['pathway_results']))
 {
-    #if (isset($_POST['pathway']))
     if (isset($_SESSION['post_data']['pathway_data_full']))
     {
         $data = $_SESSION['post_data']['pathway_data_full'];

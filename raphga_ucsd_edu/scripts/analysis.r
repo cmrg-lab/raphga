@@ -21,7 +21,7 @@ for_web <- TRUE
 
 #********************* set paramters ************************************
 if (for_web) {
-  setwd("/var/www/scripts")
+  setwd("scripts/")
   args <- commandArgs(TRUE)
 
   species <- args[1]
@@ -33,8 +33,6 @@ if (for_web) {
   hub_output_short <- args[7]
   gene_nums_output <- args[8]
   pathway_output_full <- args[9]
-  #data <- c(species, methodx, inputx, input_file, pathway_output, hub_output_full, hub_output_short, gene_nums_output)
-  #print(data) 
 } else {
   setwd("C:\\test\\gan_KEGG_database")
 
