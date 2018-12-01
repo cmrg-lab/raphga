@@ -48,10 +48,6 @@ if (for_web) {
   inputx <- "symbol"
 
   #************** Define filenames here ***********************
-  #input_file <- "2hrs_p01.txt"
-  #input_file <- "6hrs_p01.txt"
-  #input_file <- "2hrs_p05.txt"
-  #input_file <- "6hrs_p05.txt"
   input_file <- "2h2p_p01_sym.txt"
   pathway_output_full <- "pathway_result.csv"
   pathway_output <- "pathway_result2.csv"
@@ -158,7 +154,6 @@ if (for_web){
   }
 
   # write out the data
-  #write.csv(data_for_php, gene_nums_output, row.names = FALSE, quote = FALSE)
   write(data_for_php, gene_nums_output, sep = ",")
 }
 

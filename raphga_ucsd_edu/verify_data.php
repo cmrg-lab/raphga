@@ -1,9 +1,4 @@
 <?php
-#print_r($_POST);
-#echo "<br>";
-#print_r($_FILES);
-#echo "<br>";
-#print_r($_SERVER);
 if ($_SERVER['REQUEST_METHOD'] == 'POST')
 {
     // If we just clearing the data,
@@ -201,10 +196,6 @@ if (isset($_SESSION['post_data']))
         $path_to_script = "scripts";
         $upload_dir = "uploads";
 
-        # These are the test locations
-        //$path_to_script = "/var/www/html/lys_ucsd_edu/scripts";
-        //$upload_dir = "/var/www/html/lys.ucsd.edu/zoe3/uploads";
-
         if ($upload)
         {
             $r_cmd = "/usr/bin/Rscript $path_to_script/analysis.r $species $analysis $type $upload_dir/$temp_file $pathway_output $hub_output_full $hub_output_short $gene_nums_output $pathway_output_full";
@@ -213,11 +204,7 @@ if (isset($_SESSION['post_data']))
         {
             $r_cmd = "/usr/bin/Rscript $path_to_script/analysis.r $species $analysis $type $temp_file $pathway_output $hub_output_full $hub_output_short $gene_nums_output $pathway_output_full";
         }
-        #$result = array();
         echo exec($r_cmd, $result);
-        #echo "<br/>";
-        #echo "This is result:<br/>";
-        #print_r($result);
         if ($upload)
         {
             unlink("./uploads/$temp_file");

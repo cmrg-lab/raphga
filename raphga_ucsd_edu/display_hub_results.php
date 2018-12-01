@@ -22,7 +22,6 @@ if(isset($hub_output_short))
           echo '<tr>';
           $text = explode(",", trim($buffer));
           if ($row_count % 2 == 0)
-              #$bgcolor = '#E7E7E7';
               $bgcolor = '#DFEAF4';
           else
               $bgcolor = '#FFFFFF';
@@ -37,9 +36,7 @@ if(isset($hub_output_short))
           {
               for ($index = 0; $index < 5; $index++)
               {
-                  # for the hub results, I think centering everything is fine
                   echo '<td align="center" bgcolor="'.$bgcolor.'">'.$text[$index].'</td>';
-                  #echo '<td bgcolor="'.$bgcolor.'">'.$text[$index].'</td>';
               }
           }
 
@@ -87,7 +84,6 @@ elseif (isset($_SESSION['post_data']['hub_data_short']))
       {
           for ($index = 0; $index < 5; $index++)
           {
-              # for the hub results, I think centering everything is fine
               echo '<td align="center" bgcolor="'.$bgcolor.'">'.$text[$index].'</td>';
           }
       }

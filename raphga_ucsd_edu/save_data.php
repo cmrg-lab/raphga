@@ -18,7 +18,6 @@ if (isset($_POST['pathway_results']))
 }
 else if (isset($_POST['hub_results']))
 {
-    #if (isset($_POST['hub']))
     if (isset($_SESSION['post_data']['hub_data_full']))
     {
         $data = $_SESSION['post_data']['hub_data_full'];

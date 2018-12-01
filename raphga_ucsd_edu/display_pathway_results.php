@@ -21,7 +21,6 @@ if (isset($pathway_output))
           echo '<tr>';
           $text = explode(",", trim($buffer));
           if ($row_count % 2 == 0)
-              #$bgcolor = '#E7E7E7';
               $bgcolor = '#DFEAF4';
           else
               $bgcolor = '#FFFFFF';
@@ -82,7 +81,6 @@ elseif (isset($_SESSION['post_data']['pathway_data']))
       echo '<tr>';
       $text = explode(",", trim($value));
       if ($row_count % 2 == 0)
-          #$bgcolor = '#E7E7E7';
           $bgcolor = '#DFEAF4';
       else
           $bgcolor = '#FFFFFF';
